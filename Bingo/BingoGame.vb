@@ -1,4 +1,4 @@
-﻿Module Bingo
+﻿Module BingoGame
 
     Sub Main()
 
